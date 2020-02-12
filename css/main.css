@@ -38,3 +38,7 @@ a:hover {
   background-color: #0074d9;
   color: white;
 }
+
+ul {
+  list-style-type: none;
+}
